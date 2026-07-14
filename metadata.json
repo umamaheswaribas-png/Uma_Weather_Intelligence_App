@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "A high-performance weather intelligence application offering real-time forecasts, 7-day projections, and smart planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
